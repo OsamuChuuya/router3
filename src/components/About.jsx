@@ -1,5 +1,5 @@
 import React from 'react'
-import text from '../assets/text.png';
+import text from '../assets/Text.png';
 import rect from '../assets/rect.png';
 import Footer2 from './Footer2';
 import True from './True';
